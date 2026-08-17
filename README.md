@@ -10,4 +10,4 @@ You may **not**:
 - Sell these designs.
 - Sell physical products made from these designs without written permission.
 
-For commercial inquiries, contact: hello@tentelescopes.com
+For commercial inquiries, contact: admin@tentelescopes.com
