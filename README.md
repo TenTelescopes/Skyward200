@@ -1,5 +1,7 @@
 # Skyward200
 
+Part of [Ten Telescopes](https://www.tentelescopes.com): open source 3D printed telescopes from Guelph, Ontario. Build guides, blog and community at https://www.tentelescopes.com
+
 These designs are licensed under the [Creative Commons Attribution–NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 You are free to:
