@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/skyward200-hero.jpg" alt="Rendering of the Skyward 200 3D printed telescope in purple and grey in front of the Andromeda Galaxy" width="760">
+  <img src="images/skyward200-young-galileos-volunteers.jpg" alt="Hamilton RASC volunteers with Skyward 200 tripods and rocker boxes built for the Young Galileos program" width="760">
 </p>
 
 <h1 align="center">Skyward 200</h1>
