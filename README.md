@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/skyward200-stellafane-booth.jpg" alt="Talking a visitor through a pink Skyward 200 at the Stellafane convention" width="760">
+  <img src="images/skyward200-five-on-the-lawn.jpg" alt="Five Skyward 200s lined up on a lawn" width="760">
 </p>
 
 <h1 align="center">Skyward 200</h1>
@@ -75,7 +75,7 @@ A full step by step assembly manual is on the way. Read about it in [150 Pages L
 <p align="center">
   <img src="images/gallery/skyward200-maple-stellafane.jpg" alt="Skyward 200s in silver, red and white at a star party" width="32%">
   <img src="images/gallery/skyward200-three-in-a-field.jpg" alt="Three Skyward 200s in silver, red and white set up in a field" width="32%">
-  <img src="images/gallery/skyward200-five-on-the-lawn.jpg" alt="Five Skyward 200s lined up on a lawn" width="32%">
+  <img src="images/gallery/skyward200-stellafane-booth.jpg" alt="Talking a visitor through a pink Skyward 200 at the Stellafane convention" width="32%">
 </p>
 <p align="center">
   <img src="images/gallery/skyward200-pink-with-friends.jpg" alt="Friends gathered around a pink Skyward 200 under a tent" width="32%">
