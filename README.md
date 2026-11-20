@@ -70,10 +70,25 @@ A full step by step assembly manual is on the way. Read about it in [150 Pages L
 
 ## Gallery
 
+### The visual Skyward 200
+
 <p align="center">
-  <img src="images/skyward200-render-side.jpg" alt="Rendering of the Skyward 200 visual version in purple and white, focuser side" width="32%">
-  <img src="images/skyward200-render-front.jpg" alt="Rendering of the Skyward 200 visual version in purple and white, front" width="32%">
-  <img src="images/skyward200-red-ota.jpg" alt="A printed Skyward 200 optical tube in red" width="32%">
+  <img src="images/gallery/skyward200-maple-stellafane.jpg" alt="Skyward 200s in silver, red and white at a star party" width="32%">
+  <img src="images/gallery/skyward200-three-in-a-field.jpg" alt="Three Skyward 200s in silver, red and white set up in a field" width="32%">
+  <img src="images/gallery/skyward200-five-on-the-lawn.jpg" alt="Five Skyward 200s lined up on a lawn" width="32%">
+</p>
+<p align="center">
+  <img src="images/gallery/skyward200-pink-with-friends.jpg" alt="Friends gathered around a pink Skyward 200 under a tent" width="32%">
+  <img src="images/gallery/skyward200-red-and-white.jpg" alt="A red and white Skyward 200 with a white maple leaf bearing" width="32%">
+  <img src="images/gallery/skyward200-phone-dock.jpg" alt="A phone in the dock of a Skyward 200" width="32%">
+</p>
+
+### The Skyward 200 Astrograph
+
+<p align="center">
+  <img src="images/gallery/skyward200-astrograph-workshop.jpg" alt="A Skyward 200 Astrograph with a camera and focuser in the workshop" width="32%">
+  <img src="images/gallery/skyward200-astrograph-filter-wheel.jpg" alt="A Skyward 200 Astrograph with a filter wheel, guide scope and the 2 inch focuser" width="32%">
+  <img src="images/gallery/skyward200-astrograph-pink.jpg" alt="Getting a pink Skyward 200 Astrograph ready for a night out" width="32%">
 </p>
 
 - See what the Astrograph can do: [Skyward 200 Astrograph: Fifteen Hours on the Heart](https://www.tentelescopes.com/post/skyward-200-astrograph-fifteen-hours-on-the-heart)
