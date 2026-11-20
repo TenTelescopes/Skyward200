@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/skyward200-five-on-the-lawn.jpg" alt="Five Skyward 200s lined up on a lawn" width="760">
+  <img src="images/skyward200-workshop-build.jpg" alt="Two builders putting a Skyward 200 together at a build workshop" width="760">
 </p>
 
 <h1 align="center">Skyward 200</h1>
@@ -83,6 +83,11 @@ A full step by step assembly manual is on the way. Read about it in [150 Pages L
   <img src="images/gallery/skyward200-pink-with-friends.jpg" alt="Friends gathered around a pink Skyward 200 under a tent" width="32%">
   <img src="images/gallery/skyward200-red-and-white.jpg" alt="A red and white Skyward 200 with a white maple leaf bearing" width="32%">
   <img src="images/gallery/skyward200-phone-dock.jpg" alt="A phone in the dock of a Skyward 200" width="32%">
+</p>
+<p align="center">
+  <img src="images/gallery/skyward200-build-event.jpg" alt="Working on a Skyward 200 tube at a build event, with a red and white Skyward 200 behind" width="32%">
+  <img src="images/gallery/skyward200-five-on-the-lawn.jpg" alt="Five Skyward 200s lined up on a lawn" width="32%">
+  <img src="images/skyward200-young-galileos-volunteers.jpg" alt="Hamilton RASC volunteers with Skyward 200 tripods and rocker boxes built for the Young Galileos program" width="32%">
 </p>
 
 ### The Skyward 200 Astrograph
