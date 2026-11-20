@@ -86,7 +86,12 @@ A full step by step assembly manual is on the way. Read about it in [150 Pages L
 ### The Skyward 200 Astrograph
 
 <p align="center">
-  <img src="images/gallery/skyward200-astrograph-workshop.jpg" alt="A Skyward 200 Astrograph with a camera and focuser in the workshop" width="32%">
+  <img src="images/gallery/skyward200-astrograph-cabling.jpg" alt="Cabling up a Skyward 200 Astrograph on a ZWO AM5 mount in the workshop" width="32%">
+  <img src="images/gallery/skyward200-astrograph-backyard.jpg" alt="Setting up a Skyward 200 Astrograph in a backyard on a fall afternoon" width="32%">
+  <img src="images/gallery/skyward200-astrograph-on-display.jpg" alt="A Skyward 200 Astrograph on display at an astronomy event" width="32%">
+</p>
+<p align="center">
+  <img src="images/gallery/skyward200-astrograph-full-rig.jpg" alt="The full Skyward 200 Astrograph imaging rig with guide scope, filter wheel and camera" width="32%">
   <img src="images/gallery/skyward200-astrograph-filter-wheel.jpg" alt="A Skyward 200 Astrograph with a filter wheel, guide scope and the 2 inch focuser" width="32%">
   <img src="images/gallery/skyward200-astrograph-pink.jpg" alt="Getting a pink Skyward 200 Astrograph ready for a night out" width="32%">
 </p>
