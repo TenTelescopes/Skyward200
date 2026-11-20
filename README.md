@@ -91,6 +91,14 @@ A full step by step assembly manual is on the way. Read about it in [150 Pages L
   <img src="images/gallery/skyward200-astrograph-pink.jpg" alt="Getting a pink Skyward 200 Astrograph ready for a night out" width="32%">
 </p>
 
+<p align="center">
+  <img src="images/gallery/skyward200-astrograph-heart-vasu.jpg" alt="The core of the Heart Nebula, IC 1805, from 15 hours of SHO narrowband with a Skyward 200 Astrograph. Image: Vasu Maini" width="32%">
+  <img src="images/gallery/skyward200-astrograph-leo-triplet-vasu.jpg" alt="The Leo Triplet, M65, M66 and NGC 3628, from 2 hours with a Skyward 200 Astrograph. Image: Vasu Maini" width="32%">
+  <img src="images/gallery/skyward200-astrograph-pacman-vasu.jpg" alt="The Pac-Man Nebula, NGC 281, from about 14 hours of HSO with a Skyward 200 Astrograph. Image: Vasu Maini" width="32%">
+</p>
+
+Deep sky images by Vasu Maini with his Skyward 200 f/4 Astrograph: the Heart Nebula (15 hours), the Leo Triplet (2 hours) and the Pac-Man Nebula (about 14 hours).
+
 - See what the Astrograph can do: [Skyward 200 Astrograph: Fifteen Hours on the Heart](https://www.tentelescopes.com/post/skyward-200-astrograph-fifteen-hours-on-the-heart)
 - Thirty Skyward 200s for the Young Galileos program: [Building Thirty Future Astronomers](https://www.tentelescopes.com/post/building-thirty-future-astronomers)
 
