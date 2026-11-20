@@ -21,6 +21,8 @@
 
 The Skyward 200 is the big brother of our [Skyward 150](https://github.com/TenTelescopes/Skyward150), and everything on it is bigger. It comes in two versions: a **visual** version on an elevated Dobsonian rocker box and tripod, and the **Skyward 200 Astrograph**, designed with extra stiffness and printed in a stiffer filament for long exposure astrophotography.
 
+A Skyward is never really finished. It's forever upgradeable, so you can start with the visual version, turn it into an Astrograph later, and go back to visual if you want.
+
 | | |
 |---|---|
 | **Design** | Newtonian reflector |
